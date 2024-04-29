@@ -2,7 +2,7 @@ package HOME_WORK;
 
 import java.util.Scanner;
 
-public class Ex11_25042024_interger_char
+public class Ex11_25042024_Arithmatic_operator
 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
