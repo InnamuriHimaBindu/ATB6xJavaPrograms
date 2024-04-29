@@ -7,7 +7,7 @@ public class Lab038 {
         System.out.println(b);
 
         int a1=65;
-        boolean b1= a1>30 && a1<66;
+        boolean b1= a1>30 && a1<66;     //t & F->f->
         System.out.println(b1);
     }
 }

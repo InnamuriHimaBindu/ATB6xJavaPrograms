@@ -6,7 +6,8 @@ public class Lab040 {
         byte b=20;
 
         System.out.println(a+b);
-        int c=a+b;     // byte c1=(a+b);
+        int c=a+b;
+        //byte c1=((int)a+b);
         System.out.println(c);
        // System.out.println(c1);
     }
