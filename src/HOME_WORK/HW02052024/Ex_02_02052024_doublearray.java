@@ -1,4 +1,4 @@
-package HOME_WORK;
+package HOME_WORK.HW02052024;
 
 import java.util.Scanner;
 
@@ -20,10 +20,10 @@ public class Ex_02_02052024_doublearray
 
         for(int i=0;i<arr.length;i++)
         {
-             arr1=arr[i]+arr[i];
-             int arr2=arr[i]*arr[i];
+             arr1=arr[i]*2;
+
             System.out.println(arr1);
-            System.out.println("multiple->" +arr2);
+
         }
 
       // int[] arr2=new int[1];

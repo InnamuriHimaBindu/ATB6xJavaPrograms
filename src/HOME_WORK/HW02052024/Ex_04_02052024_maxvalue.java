@@ -1,4 +1,4 @@
-package HOME_WORK;
+package HOME_WORK.HW02052024;
 
 public class Ex_04_02052024_maxvalue {
     public static void main(String[] args) {

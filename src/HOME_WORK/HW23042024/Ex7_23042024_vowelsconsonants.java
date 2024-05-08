@@ -1,6 +1,5 @@
-package HOME_WORK;
+package HOME_WORK.HW23042024;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Ex7_23042024_vowelsconsonants {

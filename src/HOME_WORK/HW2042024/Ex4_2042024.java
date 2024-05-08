@@ -1,4 +1,4 @@
-package HOME_WORK;
+package HOME_WORK.HW2042024;
 
 public class Ex4_2042024 {
     public static void main(String[] args) {

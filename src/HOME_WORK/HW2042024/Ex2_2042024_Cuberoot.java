@@ -1,4 +1,4 @@
-package HOME_WORK;
+package HOME_WORK.HW2042024;
 
 public class Ex2_2042024_Cuberoot {
     public static void main(String[] args) {

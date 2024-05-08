@@ -1,4 +1,4 @@
-package HOME_WORK;
+package HOME_WORK.HW23042024;
 
 import java.util.Scanner;
 
