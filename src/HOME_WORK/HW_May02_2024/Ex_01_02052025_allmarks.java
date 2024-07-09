@@ -1,4 +1,4 @@
-package HOME_WORK.HW02052024;
+package HOME_WORK.HW_May02_2024;
 
 import java.util.Scanner;
 
